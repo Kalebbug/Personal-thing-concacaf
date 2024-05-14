@@ -1,0 +1,112 @@
+body {
+    background-color: rgb(77, 77, 77);
+    
+}
+header {
+    background-color: rgb(37, 37, 37);
+    color: white;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+p {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+img {
+    display: block; 
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    width: 80%; 
+    border: 2px dotted black;
+    padding: 5px;
+}
+
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+hr {
+    border: none;
+    border-top: 2px dotted black; 
+    height: 1px; 
+    width: 100%
+}
+h3 {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: white;
+}
+
+#teams h2 {
+    background-color: rgb(37, 37, 37);
+    text-align: center;
+}
+#teams h3 {
+    text-align: center;
+}
+
+#teams h1{
+    color: white;
+    text-align: center;
+}
+
+
+#tournaments h1{
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section {
+    display: inline-block;
+    width: 30%; 
+    border: 1px dotted white;
+    padding: 10px;
+    margin-right:  10px; 
+   text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section li{
+    text-align: left;
+}
+.section h3{
+background-color: rgb(37, 37, 37);
+}
+.section h4 {
+    color: white;
+    background-color: rgb(37, 37, 37);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+/* Resetting default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+}
+
